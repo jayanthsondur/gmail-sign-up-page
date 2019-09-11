@@ -1,0 +1,152 @@
+body {
+	background: white;
+	height: 700px;
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.base {
+	position: absolute;
+	width: 35%;
+	height: 77%;
+
+	color: gray;
+	box-sizing: inherit;
+	border-style: groove;
+	margin-left: 35%;
+	border-radius: 12px;
+	margin-top: 8.5%;
+}
+
+#log {
+
+	margin-top: 20px;
+    height: 35px;
+	width: 500px;
+}
+
+.EmailAdd {
+	width: 270px;
+	height: 42px;
+	border: solid 1px #c2c4c6;
+	font-size: 16px;
+	padding-left: 8px;
+}
+
+#info1 {
+	width: 500px;
+	margin-top: 25px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 38px;
+	color: #555557;
+
+}
+
+#info2 {
+	width: 500px;
+	margin-top: 17px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #555557;
+}
+
+#textbox {
+	width: 270px;
+	height: 42px;
+	border-radius: 5px 5px 5px 5px;
+	background: white;
+
+	font-size: 18px;
+	margin-top: 20px;
+	border-width: 0px;
+	border-style: solid;
+	border-color: blue;
+}
+
+#info3 {
+	float: center-right;
+	margin-top: 10px;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	color: #498af2;
+	padding-right: 190px;
+	font-weight: bold;
+}
+
+#info3 a {
+	color: #498af2;
+	text-decoration: none;
+}
+
+#info4 {
+	margin-top: 30px;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	color: #87898b;
+	font-weight: bold;
+	padding-left: 60px;
+}
+
+#info5 {
+	float: center-right;
+	margin-top: 1px;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+	color: #498af2;
+	padding-right: 210px;
+	font-weight: bold;
+}
+
+#info5 a {
+	color: #498af2;
+	text-decoration: none;
+}
+
+#info6 {
+	float: center-right;
+	margin-top: 30px;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	color: #498af2;
+	padding-right: 180px;
+	font-weight: bold;
+}
+
+#info6 a {
+	color: #498af2;
+	text-decoration: none;
+}
+
+#button {
+
+	width: 80px;
+	height: 35px;
+
+	margin-top: 10px;
+	background: #498af2;
+	font-family: verdana;
+	font-size: 14px;
+	color: white;
+	border-radius: 5px 5px 5px 5px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: gray;
+	cursor: pointer;
+	outline: none;
+
+}
+
+#bottom ul {
+	list-style: none;
+
+}
+
+#bottom ul li {
+	float: left;
+	margin-left: 20px;
+
+}
+/*<input name="first_name" id="First_Name" type="text" />
+<input name="last_name" id="Last_Name" type="text" />
